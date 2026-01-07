@@ -1,0 +1,5 @@
+{
+  "name": "Copy of FortuneFace AI",
+  "description": "An AI-powered application that analyzes facial features to provide aesthetic scoring, poetic compliments, and daily fortune predictions using Google Gemini.",
+  "requestFramePermissions": []
+}
